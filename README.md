@@ -2,7 +2,7 @@
 
 ## This repository contains solution for task 1 of *Spectrum Internship Drive*.
 
-The Jupyter Notebook contains the graph and the descriptive statistics of the given problem.
+The Jupyter Notebook contains the graph and the descriptive statistics of the given problem in the "notebook" folder under the name **Solution**.
 
 ****
 
